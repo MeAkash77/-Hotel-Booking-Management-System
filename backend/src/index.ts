@@ -121,8 +121,8 @@ const allowedOrigins = [
   process.env.FRONTEND_URL,
   "http://localhost:5174",
   "http://localhost:5173",
-  "https://mern-booking-hotel.netlify.app",
-  "https://mern-booking-hotel.netlify.app/",
+  "https://hotel-booking-management-system-4f6g-4edacp8ty-akash-d5052c73.vercel.app",
+  "https://hotel-booking-management-system-4f6g-4edacp8ty-akash-d5052c73.vercel.app/",
   "https://hotel-mern-booking.vercel.app",
   "https://hotel-mern-booking.vercel.app/",
 ].filter((origin): origin is string => Boolean(origin));
